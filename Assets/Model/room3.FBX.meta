@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 6f51434697921ac4a8c1de3d6a65dac9
+timeCreated: 1539051733
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CH_01
+    100002: CH_02
+    100004: CH_03
+    100006: CH_04
+    100008: CH_BL_01
+    100010: DB_01
+    100012: Door_01
+    100014: Door_02
+    100016: HHB
+    100018: Plane001
+    100020: QB_01
+    100022: QB_all
+    100024: QHB
+    100026: //RootNode
+    100028: YTJ
+    100030: ZB_DH_01
+    100032: ZB_DH_02
+    100034: ZB_DH_03
+    100036: ZB_DH_04
+    100038: ZB_DH_05
+    100040: ZB_H_01
+    100042: ZB_H_02
+    100044: ZB_H_03
+    100046: ZB_H_04
+    100048: ZB_H_05
+    100050: ZB_K_01
+    100052: ZZ_01
+    400000: CH_01
+    400002: CH_02
+    400004: CH_03
+    400006: CH_04
+    400008: CH_BL_01
+    400010: DB_01
+    400012: Door_01
+    400014: Door_02
+    400016: HHB
+    400018: Plane001
+    400020: QB_01
+    400022: QB_all
+    400024: QHB
+    400026: //RootNode
+    400028: YTJ
+    400030: ZB_DH_01
+    400032: ZB_DH_02
+    400034: ZB_DH_03
+    400036: ZB_DH_04
+    400038: ZB_DH_05
+    400040: ZB_H_01
+    400042: ZB_H_02
+    400044: ZB_H_03
+    400046: ZB_H_04
+    400048: ZB_H_05
+    400050: ZB_K_01
+    400052: ZZ_01
+    2300000: CH_01
+    2300002: CH_02
+    2300004: CH_03
+    2300006: CH_04
+    2300008: CH_BL_01
+    2300010: DB_01
+    2300012: Door_01
+    2300014: Door_02
+    2300016: HHB
+    2300018: Plane001
+    2300020: QB_01
+    2300022: QHB
+    2300024: YTJ
+    2300026: ZB_DH_01
+    2300028: ZB_DH_02
+    2300030: ZB_DH_03
+    2300032: ZB_DH_04
+    2300034: ZB_DH_05
+    2300036: ZB_H_01
+    2300038: ZB_H_02
+    2300040: ZB_H_03
+    2300042: ZB_H_04
+    2300044: ZB_H_05
+    2300046: ZB_K_01
+    2300048: ZZ_01
+    3300000: CH_01
+    3300002: CH_02
+    3300004: CH_03
+    3300006: CH_04
+    3300008: CH_BL_01
+    3300010: DB_01
+    3300012: Door_01
+    3300014: Door_02
+    3300016: HHB
+    3300018: Plane001
+    3300020: QB_01
+    3300022: QHB
+    3300024: YTJ
+    3300026: ZB_DH_01
+    3300028: ZB_DH_02
+    3300030: ZB_DH_03
+    3300032: ZB_DH_04
+    3300034: ZB_DH_05
+    3300036: ZB_H_01
+    3300038: ZB_H_02
+    3300040: ZB_H_03
+    3300042: ZB_H_04
+    3300044: ZB_H_05
+    3300046: ZB_K_01
+    3300048: ZZ_01
+    4300000: Plane001
+    4300002: ZZ_01
+    4300004: YTJ
+    4300006: ZB_DH_04
+    4300008: ZB_DH_03
+    4300010: ZB_DH_02
+    4300012: ZB_H_04
+    4300014: ZB_K_01
+    4300016: ZB_H_01
+    4300018: ZB_DH_01
+    4300020: QHB
+    4300022: HHB
+    4300024: QB_01
+    4300026: CH_01
+    4300028: CH_BL_01
+    4300030: CH_02
+    4300032: CH_03
+    4300034: CH_04
+    4300036: ZB_H_02
+    4300038: ZB_DH_05
+    4300040: ZB_H_03
+    4300042: ZB_H_05
+    4300044: Door_02
+    4300046: Door_01
+    4300048: DB_01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

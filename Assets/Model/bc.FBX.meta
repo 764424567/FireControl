@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 910f97f0ebf715640ac73cd39e94cbe5
+timeCreated: 1551251906
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: //RootNode
+    100004: Box485
+    100006: cb
+    100008: cdb
+    100010: cz
+    100012: dicha
+    100014: jhj
+    100016: kg
+    100018: MI_Portable_Source_PLM03ZM_Low
+    100020: qiangcha
+    100022: "\u5BF9\u8C61063"
+    100024: "\u5BF9\u8C61064"
+    400000: ' '
+    400002: //RootNode
+    400004: Box485
+    400006: cb
+    400008: cdb
+    400010: cz
+    400012: dicha
+    400014: jhj
+    400016: kg
+    400018: MI_Portable_Source_PLM03ZM_Low
+    400020: qiangcha
+    400022: "\u5BF9\u8C61063"
+    400024: "\u5BF9\u8C61064"
+    2300000: ' '
+    2300002: Box485
+    2300004: cb
+    2300006: dicha
+    2300008: jhj
+    2300010: MI_Portable_Source_PLM03ZM_Low
+    2300012: qiangcha
+    2300014: "\u5BF9\u8C61063"
+    2300016: "\u5BF9\u8C61064"
+    3300000: ' '
+    3300002: Box485
+    3300004: cb
+    3300006: dicha
+    3300008: jhj
+    3300010: MI_Portable_Source_PLM03ZM_Low
+    3300012: qiangcha
+    3300014: "\u5BF9\u8C61063"
+    3300016: "\u5BF9\u8C61064"
+    4300000: ' '
+    4300002: "\u5BF9\u8C61063"
+    4300004: cb
+    4300006: MI_Portable_Source_PLM03ZM_Low
+    4300008: Box485
+    4300010: "\u5BF9\u8C61064"
+    4300012: qiangcha
+    4300014: dicha
+    4300016: jhj
+    7400000: Take 001
+    7400002: Take 001 (1)
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cb
+        weight: 1
+      - path: cdb
+        weight: 1
+      - path: cdb/Box485
+        weight: 1
+      - path: cdb/MI_Portable_Source_PLM03ZM_Low
+        weight: 1
+      - path: "cdb/\u5BF9\u8C61064"
+        weight: 1
+      - path: cz
+        weight: 1
+      - path: cz/dicha
+        weight: 1
+      - path: cz/qiangcha
+        weight: 1
+      - path: jhj
+        weight: 1
+      - path: kg
+        weight: 1
+      - path: 'kg/ '
+        weight: 1
+      - path: "kg/\u5BF9\u8C61063"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (1)
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cb
+        weight: 1
+      - path: cdb
+        weight: 1
+      - path: cdb/Box485
+        weight: 1
+      - path: cdb/MI_Portable_Source_PLM03ZM_Low
+        weight: 1
+      - path: "cdb/\u5BF9\u8C61064"
+        weight: 1
+      - path: cz
+        weight: 1
+      - path: cz/dicha
+        weight: 1
+      - path: cz/qiangcha
+        weight: 1
+      - path: jhj
+        weight: 1
+      - path: kg
+        weight: 1
+      - path: 'kg/ '
+        weight: 1
+      - path: "kg/\u5BF9\u8C61063"
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

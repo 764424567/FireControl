@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 9e7b8b0da56d8d644a0a29ccb63ee714
+timeCreated: 1551253178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' '
+    100002: Box485
+    100004: cb
+    100006: cdb
+    100008: Cone002
+    100010: //RootNode
+    100012: cz
+    100014: dicha
+    100016: kg
+    100018: lajitong
+    100020: MI_Portable_Source_PLM03ZM_Low
+    100022: qiangcha
+    100024: Sphere007
+    100026: "\u5BF9\u8C61063"
+    100028: "\u5BF9\u8C61064"
+    100030: "\u5BF9\u8C61065"
+    400000: ' '
+    400002: Box485
+    400004: cb
+    400006: cdb
+    400008: Cone002
+    400010: //RootNode
+    400012: cz
+    400014: dicha
+    400016: kg
+    400018: lajitong
+    400020: MI_Portable_Source_PLM03ZM_Low
+    400022: qiangcha
+    400024: Sphere007
+    400026: "\u5BF9\u8C61063"
+    400028: "\u5BF9\u8C61064"
+    400030: "\u5BF9\u8C61065"
+    2300000: ' '
+    2300002: Box485
+    2300004: cb
+    2300006: Cone002
+    2300008: dicha
+    2300010: MI_Portable_Source_PLM03ZM_Low
+    2300012: qiangcha
+    2300014: Sphere007
+    2300016: "\u5BF9\u8C61063"
+    2300018: "\u5BF9\u8C61064"
+    2300020: "\u5BF9\u8C61065"
+    3300000: ' '
+    3300002: Box485
+    3300004: cb
+    3300006: Cone002
+    3300008: dicha
+    3300010: MI_Portable_Source_PLM03ZM_Low
+    3300012: qiangcha
+    3300014: Sphere007
+    3300016: "\u5BF9\u8C61063"
+    3300018: "\u5BF9\u8C61064"
+    3300020: "\u5BF9\u8C61065"
+    4300000: Sphere007
+    4300002: Cone002
+    4300004: cb
+    4300006: MI_Portable_Source_PLM03ZM_Low
+    4300008: Box485
+    4300010: "\u5BF9\u8C61064"
+    4300012: qiangcha
+    4300014: dicha
+    4300016: ' '
+    4300018: "\u5BF9\u8C61063"
+    4300020: "\u5BF9\u8C61065"
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
